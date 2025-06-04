@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project implements a cutting-edge image enhancement system to improve visibility in hazy and foggy conditions using **Neural Style Transfer (NST)**. It processes images affected by atmospheric disturbances using deep learning to deliver clearer and more detailed visuals.
+This project implements a cutting-edge image and video enhancement system to improve visibility in hazy and foggy conditions using **Neural Style Transfer (NST)**. It processes images affected by atmospheric disturbances using deep learning to deliver clearer and more detailed visuals.
 
 ---
 
