@@ -41,11 +41,11 @@ This project implements a cutting-edge image enhancement system to improve visib
 
 ---
 
-## 🖼️ Image Processing Pipeline
+## 🖼️ Video Processing Pipeline
 
 ```mermaid
 graph TD
-  A[Load Content Image] --> B[Load Style Image]
+  A[Load Content video] --> B[Load Style Image]
   B --> C[Preprocess: Crop, Resize, Normalize]
   C --> D[NST Transformation]
-  D --> E[Enhanced Output Image]
+  D --> E[Enhanced Output video]
