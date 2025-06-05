@@ -38,6 +38,7 @@ This project implements a cutting-edge image and video enhancement system to imp
 1. **Content & Style Separation**: Extract features from both input and reference images
 2. **Style Synthesis**: Merge textures from the style image with the structure of the content image
 3. **Output Rendering**: Generate a transformed image preserving visibility and details
+<p>The input video (videoplayback_1) and the output video (clear_vid) are also included in this repo</p>
 
 ---
 
