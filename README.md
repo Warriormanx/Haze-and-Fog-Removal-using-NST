@@ -14,7 +14,7 @@ This project implements a cutting-edge image and video enhancement system to imp
   - Content image size (default: 384px)
   - Style image size (default: 256px)
   - Aspect ratio preservation
-- 📦 **Pre-trained Models**: Uses Google's Arbitrary Image Stylization model (v2)
+- 📦 **Pre-trained Models**: Uses Google's Arbitrary Image Stylization model (v1)
 - 🔄 **Automated Workflow**:
   - Image loading, cropping, resizing
   - Aspect-ratio-preserving transformations
