@@ -50,3 +50,10 @@ graph TD
   B --> C[Preprocess: Crop, Resize, Normalize]
   C --> D[NST Transformation]
   D --> E[Enhanced Output video]
+```
+---
+
+## Check this project out on Docker also
+```bash
+  https://hub.docker.com/r/warriormanx/haze_removal_nst
+  ```
